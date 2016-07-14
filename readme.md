@@ -1,3 +1,3 @@
-#README
+#A better title
 
-Thsi is a readme file.
+This is a readme file.
